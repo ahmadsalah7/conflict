@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 edited from ahmad 
 edit from ssalah on file1 after the first mergeing 
+=======
+edited from ahmad
+amother edit from ahmad after mergeing  
+>>>>>>> 632a45db418aa3399432d5dd0040b8e5dfcd8c97
